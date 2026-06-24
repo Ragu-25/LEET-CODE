@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ragu-25/LEET-CODE/tree/master/0053-maximum-subarray) |
+| [1929-concatenation-of-array](https://github.com/Ragu-25/LEET-CODE/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ragu-25/LEET-CODE/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Ragu-25/LEET-CODE/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
