@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ragu-25/LEET-CODE/tree/master/0053-maximum-subarray) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ragu-25/LEET-CODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ragu-25/LEET-CODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Ragu-25/LEET-CODE/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragu-25/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ragu-25/LEET-CODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ragu-25/LEET-CODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ragu-25/LEET-CODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ragu-25/LEET-CODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ragu-25/LEET-CODE/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Math
 |  |
@@ -63,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragu-25/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0771-jewels-and-stones](https://github.com/Ragu-25/LEET-CODE/tree/master/0771-jewels-and-stones) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ragu-25/LEET-CODE/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
