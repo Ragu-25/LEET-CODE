@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragu-25/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0389-find-the-difference](https://github.com/Ragu-25/LEET-CODE/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Ragu-25/LEET-CODE/tree/master/0771-jewels-and-stones) |
 | [1446-consecutive-characters](https://github.com/Ragu-25/LEET-CODE/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ragu-25/LEET-CODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragu-25/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/Ragu-25/LEET-CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ragu-25/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Ragu-25/LEET-CODE/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Ragu-25/LEET-CODE/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ragu-25/LEET-CODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ragu-25/LEET-CODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -96,4 +98,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ragu-25/LEET-CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ragu-25/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Ragu-25/LEET-CODE/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ragu-25/LEET-CODE/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
