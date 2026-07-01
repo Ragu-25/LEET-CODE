@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ragu-25/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0349-intersection-of-two-arrays](https://github.com/Ragu-25/LEET-CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ragu-25/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0682-baseball-game](https://github.com/Ragu-25/LEET-CODE/tree/master/0682-baseball-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ragu-25/LEET-CODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ragu-25/LEET-CODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ragu-25/LEET-CODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Ragu-25/LEET-CODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Ragu-25/LEET-CODE/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Ragu-25/LEET-CODE/tree/master/1929-concatenation-of-array) |
 ## String
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ragu-25/LEET-CODE/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Ragu-25/LEET-CODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Ragu-25/LEET-CODE/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ragu-25/LEET-CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
