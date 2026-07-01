@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ragu-25/LEET-CODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ragu-25/LEET-CODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ragu-25/LEET-CODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ragu-25/LEET-CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ragu-25/LEET-CODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Ragu-25/LEET-CODE/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -140,4 +141,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ragu-25/LEET-CODE/tree/master/0020-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ragu-25/LEET-CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ragu-25/LEET-CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
