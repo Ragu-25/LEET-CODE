@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ragu-25/LEET-CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ragu-25/LEET-CODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Ragu-25/LEET-CODE/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Ragu-25/LEET-CODE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ragu-25/LEET-CODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Ragu-25/LEET-CODE/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Ragu-25/LEET-CODE/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Ragu-25/LEET-CODE/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ragu-25/LEET-CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Ragu-25/LEET-CODE/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
