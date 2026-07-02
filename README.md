@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ragu-25/LEET-CODE/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Ragu-25/LEET-CODE/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Ragu-25/LEET-CODE/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ragu-25/LEET-CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/Ragu-25/LEET-CODE/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ragu-25/LEET-CODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ragu-25/LEET-CODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ragu-25/LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Ragu-25/LEET-CODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Ragu-25/LEET-CODE/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ragu-25/LEET-CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ragu-25/LEET-CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
