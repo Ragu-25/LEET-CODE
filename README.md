@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Ragu-25/LEET-CODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ragu-25/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0349-intersection-of-two-arrays](https://github.com/Ragu-25/LEET-CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ragu-25/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -171,4 +172,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ragu-25/LEET-CODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/Ragu-25/LEET-CODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
