@@ -224,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ragu-25/LEET-CODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/Ragu-25/LEET-CODE/tree/master/0938-range-sum-of-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Ragu-25/LEET-CODE/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
